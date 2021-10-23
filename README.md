@@ -37,8 +37,6 @@ https://youtu.be/qQfWm1JK0rM
 - SMS detection wasn't possible in background at all times, but had a timeout of few minutes.
 - Carbon Footprint Database / APIs are not easily and freely available.
 
-## Accomplishments that we're proud of
-
 ## What we learned
 - Climate change is real, and we hope eco.club makes it easier for users to help prevent climate change.
 - We learnt how to integrate our front-end with StoryBlok CMS. StoryBlok has been really helpful and easy to use to publish content dynamically on to multiple platforms!
