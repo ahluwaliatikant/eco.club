@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449635862352",
+    "project_id": "ecoclub-9bbb9",
+    "storage_bucket": "ecoclub-9bbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449635862352:android:828b0bd4025b849dd38e55",
+        "android_client_info": {
+          "package_name": "com.atikant.ecoclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449635862352-3naos9fi31uhefi1dcn79mmtirt1gse0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atikant.ecoclub",
+            "certificate_hash": "6d44838511bf8616e19d88b5e981050252193bff"
+          }
+        },
+        {
+          "client_id": "449635862352-4k92a2hfbfunu5pksnniufoeporh54fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI3as_ZLpOgr25g2w4C-1gFvuXTarVD2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449635862352-4k92a2hfbfunu5pksnniufoeporh54fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
